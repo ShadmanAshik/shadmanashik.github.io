@@ -1,18 +1,50 @@
 ---
 layout: page
-title: About
+title: Contribution
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    text-align: left;
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+  }
+  tr:hover {background-color:#f5f5f5;}
+</style>
+</head>
+<body>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<table>
+  <tr>
+    <th>Name</th>
+    <th>ID</th>
+    <th>Contribution</th>
+  </tr>
+  <tr>
+    <td>Shadman Al Islam</td>
+    <td>s230053</td>
+    <td>35</td>
+  </tr>
+  <tr>
+    <td>Amin Azad</td>
+    <td>s230049</td>
+    <td>35</td>
+  </tr>
+  <tr>
+    <td>Anwara Sonia</td>
+    <td>s230041</td>
+    <td>30</td>
+  </tr>
+</table>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+</body>
+</html>
