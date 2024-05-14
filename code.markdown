@@ -1,5 +1,7 @@
 ---
 layout: page
 title: Code
-permalink: https://nbviewer.org/github/dchoi44/311-Service-Requests-Visualization/blob/master/Notebook/Explainer%20Notebook.ipynb/
+permalink: /code/
 ---
+
+[Click here to see the notebook](https://nbviewer.org/github/ShadmanAshik/shadmanashik.github.io/blob/main/notebook.ipynb#)

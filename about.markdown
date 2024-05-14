@@ -3,7 +3,7 @@ layout: page
 title: Contribution
 permalink: /about/
 ---
-
+We all did the work together and collaborated with each other's work. So it is hard to distinguish who did what but since you asked specifically here is an overall summary of our contributions
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -28,21 +28,25 @@ permalink: /about/
     <th>Name</th>
     <th>ID</th>
     <th>Contribution</th>
+    <th>Description</th>
   </tr>
   <tr>
     <td>Shadman Al Islam</td>
     <td>s230053</td>
-    <td>35</td>
+    <td>40</td>
+    <td>Setting the website and hosting</td>
   </tr>
   <tr>
     <td>Amin Azad</td>
     <td>s230049</td>
-    <td>35</td>
+    <td>40</td>
+    <td>Data visualizations</td>
   </tr>
   <tr>
     <td>Anwara Sonia</td>
     <td>s230041</td>
-    <td>30</td>
+    <td>20</td>
+    <td>Preparing the dataset, writting all the descriptions</td>
   </tr>
 </table>
 
