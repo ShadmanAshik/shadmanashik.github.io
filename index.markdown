@@ -27,13 +27,13 @@ The series of pie charts eloquently illustrate the breakdown of top complaint ty
 
 **Complaints Distribution Across Boroughs**
 <iframe src="external/zip.html" style="width:750px; height:450px; border:none;"></iframe>
-The radial charts provide a distinct visualization of complaint distributions across New York City's boroughs, presenting an intuitive breakdown by ZIP code within each area. Brooklyn shows a diverse range of complaint hotspots, indicating a vibrant and densely populated borough with varied concerns. In contrast, the quieter nature of Staten Island is evident from fewer complaint spikes, reflecting its more suburban character. These charts not only highlight geographical variations in city life but also guide residents and newcomers on localized issues they might face.
+The polar charts provide a distinct visualization of complaint distributions across New York City's boroughs, presenting an intuitive breakdown by ZIP code within each area. Brooklyn shows a diverse range of complaint hotspots, indicating a vibrant and densely populated borough with varied concerns. In contrast, the quieter nature of Staten Island is evident from fewer complaint spikes, reflecting its more suburban character. These charts not only highlight geographical variations in city life but also guide residents and newcomers on localized issues they might face.
 
 
 
 **Detailed Complaint Distribution in Major Streets**
 <iframe src="external/table.html" style="width:750px; height:1450px; border:none;"></iframe>
-The bar graphs provide a detailed view of specific complaint types along major streets within each borough, revealing critical insights into localized issues. For instance, Grand Concourse in the Bronx highlights a significant number of HEAT/HOT WATER complaints, suggesting potential housing quality issues in this area. This detailed breakdown helps pinpoint specific challenges faced in different neighborhoods, offering a granular view that can be crucial for urban planners and residents alike.
+The heat map provide a detailed view of specific complaint types along major streets within each borough, revealing critical insights into localized issues. For instance, Grand Concourse in the Bronx highlights a significant number of HEAT/HOT WATER complaints, suggesting potential housing quality issues in this area. This detailed breakdown helps pinpoint specific challenges faced in different neighborhoods, offering a granular view that can be crucial for urban planners and residents alike.
 
 **Monthly Trends in Top Complaint Types**
 <iframe src="external/monthly.html" style="width:750px; height:450px; border:none;"></iframe>
